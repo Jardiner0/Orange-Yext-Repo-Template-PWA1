@@ -202,13 +202,7 @@
           "id": "gmbLinkedAccount"
         },
         {
-          "id": "appleBusinessConnectLinkedAccount"
-        },
-        {
           "id": "yelpLinkedAccount"
-        },
-        {
-          "id": "trustpilotLinkedAccount"
         }
       ]
     },
