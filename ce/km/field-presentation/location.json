@@ -184,13 +184,7 @@
           "id": "gmbLinkedAccount"
         },
         {
-          "id": "appleBusinessConnectLinkedAccount"
-        },
-        {
           "id": "yelpLinkedAccount"
-        },
-        {
-          "id": "trustpilotLinkedAccount"
         }
       ]
     },
@@ -589,9 +583,6 @@
         },
         {
           "id": "bingWebsiteOverride"
-        },
-        {
-          "id": "bookingDotComPropertyId"
         },
         {
           "id": "facebookAbout"
